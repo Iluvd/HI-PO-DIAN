@@ -4,10 +4,10 @@
 </head>
  <style>
 body {
-  background-image: url('
-   https://media0.giphy.com/media/REQjNzjlfR4mVE8WSR/giphy.gif?cid=ecf05e47ejqspum38xe5yr59pctaz78sia79xuksmvbsgc5y&ep=v1_gifs_related&rid=giphy.gif&ct=g');
+  background-image: url('https://media0.giphy.com/media/REQjNzjlfR4mVE8WSR/giphy.gif?cid=ecf05e47ejqspum38xe5yr59pctaz78sia79xuksmvbsgc5y&ep=v1_gifs_related&rid=giphy.gif&ct=g');
 }
 </style>
+ 
 <body>
 
 <IMG SRC="https://media3.giphy.com/media/VwmUKv6Mh91de/giphy.gif?cid=ecf05e47i7e26zao1mbvwzyy4k6g0uzaq1b23vzrqt73la5e&ep=v1_gifs_related&rid=giphy.gif&ct=g">.
