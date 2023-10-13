@@ -5,7 +5,8 @@
 <body>
 <style>
 body {
-  background-image: url('https://media2.giphy.com/media/rcFs59ww1R7yeFszmo/giphy.gif?cid=ecf05e47gdqabpcdne390ibcgaavfqkse70wl5hh43jzlzrv&ep=v1_gifs_search&rid=giphy.gif&ct=g');
+  background-image: url('https://media3.giphy.com/media/6YXmxRMrjKZMLUree4/giphy.gif?cid=ecf05e47ejqspum38xe5yr59pctaz78sia79xuksmvbsgc5y&ep=v1_gifs_related&rid=giphy.gif&ct=g')
+'');
 }
 </style>
 
