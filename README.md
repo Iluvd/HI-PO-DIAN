@@ -4,8 +4,7 @@
 </head>
 <body>
 <style>
-body {
-  background-image: url('https://media3.giphy.com/media/6YXmxRMrjKZMLUree4/giphy.gif?cid=ecf05e47ejqspum38xe5yr59pctaz78sia79xuksmvbsgc5y&ep=v1_gifs_related&rid=giphy.gif&ct=g')
+body {https://media0.giphy.com/media/REQjNzjlfR4mVE8WSR/giphy.gif?cid=ecf05e47ejqspum38xe5yr59pctaz78sia79xuksmvbsgc5y&ep=v1_gifs_related&rid=giphy.gif&ct=g')
 '');
 }
 </style>
