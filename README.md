@@ -3,6 +3,12 @@
  HI PO DIAN!!! 
 </head>
 <body>
+<style>
+body {
+  background-image: url('https://media2.giphy.com/media/rcFs59ww1R7yeFszmo/giphy.gif?cid=ecf05e47gdqabpcdne390ibcgaavfqkse70wl5hh43jzlzrv&ep=v1_gifs_search&rid=giphy.gif&ct=g');
+}
+</style>
+
 <IMG SRC="https://media3.giphy.com/media/VwmUKv6Mh91de/giphy.gif?cid=ecf05e47i7e26zao1mbvwzyy4k6g0uzaq1b23vzrqt73la5e&ep=v1_gifs_related&rid=giphy.gif&ct=g">.
 <h1> HI!!!!!!!</h1>
 <h2> I like you so much that's why I made this web page for you I really really like you so much that 
